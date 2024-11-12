@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying in BUT FIT<br>👯 I’m looking to colaborate on startup<br>🌱 I am currenly learning C, C++, VHDL, VBA<br>💬 Ask me about Finance<br>⚡ I am also Fotbal goalkeeper and Financial advisor<br> 
+🔭 Studying in VŠB FEI<br>👯 I’m looking to colaborate on startup<br>🌱 I am currenly learning C, C++, VHDL, VBA, Haskell <br>⚡ I am also Fotbal goalkeeper 
 
 
 ## 🌐 Socials:

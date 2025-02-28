@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying in VŠB FEI<br>👯 I’m looking to colaborate on startup<br>🌱 I am currenly learning C, C++, VHDL, VBA, Haskell <br>⚡ I am also Fotbal goalkeeper 
+🔭 Studying in VŠB FEI<br>👯 I’m looking to colaborate on startup<br>🌱 I am currenly learning C, C++, VHDL, VBA, Haskell <br>⚡ I am also Fotball goalkeeper 
 
 
 ## 🌐 Socials:
